@@ -5,8 +5,6 @@ This repository contains the source code for the personal 3D portfolio of Abhish
 GitHub: [https://github.com/Abhishek-kalligudd](https://github.com/Abhishek-kalligudd)  
 LinkedIn: [https://www.linkedin.com/in/abhishek-kalligudd-a666a4297](https://www.linkedin.com/in/abhishek-kalligudd-a666a4297)
 
-![Portfolio Preview](public/images/preview1.png)
-
 ## Table of Contents
 
 - [Features](#features)
