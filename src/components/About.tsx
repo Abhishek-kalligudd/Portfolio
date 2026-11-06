@@ -6,11 +6,15 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          I am currently co-founder of CallHQ.ai, building real-time voice AI for
-          businesses. I am a technologist at heart with strong business judgment—
-          I enjoy going from product strategy to hands-on engineering. My background
-          spans leadership at Adobe, founding Broki and CallHQ, and shipping
-          full-stack products end to end.
+          I am a passionate Full Stack Developer and Computer Science Engineering
+          student with hands-on experience building scalable web applications and
+          real-time distributed systems. Currently interning at Ecometa Integrated
+          Solutions on the ONDC Logistics Platform, I develop microservices,
+          dynamic pricing engines, and high-throughput streaming systems using
+          Node.js, Spring Boot, React, and PostgreSQL. From architecting e-commerce
+          platforms like LapKart to deploying containerized infrastructure with
+          Docker and Kubernetes on AWS, I love turning complex engineering challenges
+          into high-impact software.
         </p>
       </div>
     </div>

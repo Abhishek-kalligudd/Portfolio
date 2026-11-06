@@ -11,27 +11,35 @@ const Contact = () => {
             <h4>Connect</h4>
             <p>
               <a
-                href="https://www.linkedin.com/in/akashrmalhotra/"
-                target="_blank"
-                rel="noreferrer"
+                href="mailto:abhishekkalligudd@gmail.com"
                 data-cursor="disable"
               >
-                LinkedIn — akashrmalhotra
+                abhishekkalligudd@gmail.com
+              </a>
+            </p>
+            <p>
+              <a
+                href="tel:+919535654502"
+                data-cursor="disable"
+              >
+                +91 9535654502
               </a>
             </p>
             <h4>Education</h4>
             <p>
-              PGPWE (MBA), Indian Institute of Management, Lucknow — 2021–2023
+              B.E. Computer Science &amp; Engg, SDM College of Engg &amp; Tech — 2022–2026 (CGPA: 8.4)
             </p>
             <p>
-              B.Tech Computer Science, Manav Rachna Educational Institutions —
-              2009–2013
+              PUC Science, Raja Lakamangouda P.U College — 2017–2019 (61.83%)
+            </p>
+            <p>
+              SSLC CBSE, KLE M Munaavalli School — 2007–2017 (CGPA: 9.6)
             </p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/akashrmalhotra"
+              href="https://github.com/Abhishek-kalligudd"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -40,7 +48,7 @@ const Contact = () => {
               GitHub <MdArrowOutward />
             </a>
             <a
-              href="https://www.linkedin.com/in/akashrmalhotra/"
+              href="https://www.linkedin.com/in/abhishek-kalligudd-a666a4297"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
@@ -49,27 +57,27 @@ const Contact = () => {
               LinkedIn <MdArrowOutward />
             </a>
             <a
-              href="https://www.youtube.com/@Leftbraincoder"
+              href="mailto:abhishekkalligudd@gmail.com"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
               className="contact-social"
             >
-              YouTube <MdArrowOutward />
+              Email <MdArrowOutward />
             </a>
             <a
-              href="https://www.instagram.com/leftbraincoder/"
+              href="tel:+919535654502"
               target="_blank"
               rel="noreferrer"
               data-cursor="disable"
               className="contact-social"
             >
-              Instagram <MdArrowOutward />
+              Phone <MdArrowOutward />
             </a>
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Akash Malhotra</span>
+              Designed and Developed <br /> by <span>Abhishek Kalligudd</span>
             </h2>
             <h5>
               <MdCopyright /> 2026

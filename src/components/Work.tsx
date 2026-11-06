@@ -5,32 +5,32 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "CallHQ",
-    category: "Voice AI Calling Platform",
-    tools: "Voice AI, Calling Automation, CRM Integrations",
-    image: "/images/callhq.png",
-    link: "https://callhq.ai",
-  },
-  {
-    title: "Whatsapp Automation",
-    category: "WABA Application",
-    tools: "WhatsApp Business API, Workflow Automation, Notifications",
-    image: "/images/whatsapp.png",
-    link: "https://whatsapp.callhq.ai",
-  },
-  {
-    title: "Broki",
-    category: "Real Estate Platform for FnB Industry",
-    tools: "Property Discovery, Lead Management, Marketplace Workflows",
-    image: "/images/broki.png",
-    link: "https://broki.in",
-  },
-  {
-    title: "Orrdr.com",
-    category: "Ecommerce Platform and Mobile App",
-    tools: "Ecommerce, Mobile Experience, Order Management",
+    title: "LapKart",
+    category: "E-Commerce Platform for Laptops",
+    tools: "Spring Boot, React, MySQL, Razorpay, JWT, Zustand, Automated Inventory & Invoicing",
     image: "/images/orrdr.png",
-    link: "https://orrdr.com",
+    link: "https://github.com/Abhishek-kalligudd",
+  },
+  {
+    title: "Aarambh Track & Fleet",
+    category: "ONDC Logistics & Microservices Platform",
+    tools: "Node.js, PostgreSQL, RESTful APIs, AWS, Docker, Kubernetes Clusters",
+    image: "/images/Solidx.png",
+    link: "https://github.com/Abhishek-kalligudd",
+  },
+  {
+    title: "Weather Surge Pricing Engine",
+    category: "Dynamic Geospatial Pricing Algorithm",
+    tools: "Weather API, Hexagonal GPS Grid Algorithm, Real-Time Coordinates, Node.js",
+    image: "/images/preview1.png",
+    link: "https://github.com/Abhishek-kalligudd",
+  },
+  {
+    title: "Real-Time Live Order Map",
+    category: "High-Throughput Streaming Engine",
+    tools: "Redis Caching, Chunked Data Streaming, Payload Minification (50k+ items), Flask",
+    image: "/images/callhq.png",
+    link: "https://github.com/Abhishek-kalligudd",
   },
 ];
 

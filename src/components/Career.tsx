@@ -2,7 +2,7 @@ import "./styles/Career.css";
 
 const Career = () => {
   return (
-    <div className="career-section section-container">
+    <div className="career-section section-container" id="career">
       <div className="career-container">
         <h2>
           My career <span>&</span>
@@ -15,58 +15,59 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Co-Founder</h4>
-                <h5>CallHQ.ai</h5>
+                <h4>Fullstack Developer Intern</h4>
+                <h5>Ecometa Integrated Solutions · Huballi</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2026</h3>
             </div>
             <p>
-              Building CallHQ.ai, a voice AI platform for
-              automating customer calls, support, and conversions.
+              Jan 2026 – July 2026. Built and scaled the Aarambh platform ecosystem
+              within the ONDC network using Node.js and Angular. Developed a dynamic
+              weather-based surge pricing engine with a hexagonal GPS grid algorithm,
+              engineered microservices with PostgreSQL, deployed containerized AWS
+              infrastructure using Docker and Kubernetes, and created a Redis-backed
+              Live Order Map handling 50k+ streaming orders.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Adobe</h4>
-                <h5>6+ years · Noida</h5>
+                <h4>B.E. Computer Science &amp; Engg</h4>
+                <h5>SDM College of Engg &amp; Tech · Dharwad</h5>
               </div>
-              <h3>2017–24</h3>
+              <h3>2022–26</h3>
             </div>
             <p>
-              Senior Lead Software Engineer (Feb 2024 – May 2024). Lead Software
-              Engineer (Feb 2021 – Feb 2024). Software Engineer II (Dec 2017 –
-              Feb 2021): internationalization, globalization, and localization for
-              Adobe Technical Communication Suite; functional and linguistic testing
-              strategy; in-house tooling; collaboration with product and engineering
-              for high-quality localized releases.
+              Bachelor of Engineering, Computer Science and Engineering (8th Semester
+              CGPA: 8.4). Built production-grade full-stack projects including LapKart,
+              focused on distributed systems, modern web technologies, database design,
+              and cloud deployment practices.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Consultant</h4>
-                <h5>Genpact Headstrong </h5>
+                <h4>PUC Science</h4>
+                <h5>Raja Lakamangouda P.U College · Belagavi</h5>
               </div>
-              <h3>2016–17</h3>
+              <h3>2017–19</h3>
             </div>
             <p>
-              Sep 2016 – Nov 2017. Developed and maintained WCF services consumed
-              by the UI; deployment support across environments; NUnit tests and
-              coverage; bug fixes from QA and users; database work.
+              Pre-University Course in Science (Percentage: 61.83%), focusing on Physics,
+              Chemistry, and Mathematics.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Sf Engineer</h4>
-                <h5>Infogain</h5>
+                <h4>SSLC CBSE</h4>
+                <h5>KLE M Munaavalli School · Gokak</h5>
               </div>
-              <h3>2013-16</h3>
+              <h3>2007–17</h3>
             </div>
             <p>
-              Software engineering across enterprise projects, contributing to
-              design, development, and delivery of business applications.
+              Completed secondary education with a distinguished CGPA of 9.6, building
+              strong analytical foundations in mathematics and science.
             </p>
           </div>
         </div>
